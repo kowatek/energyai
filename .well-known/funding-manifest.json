@@ -1,0 +1,75 @@
+{
+  "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Chibueze Iwuala",
+    "email": "chibueze@kowatek.com",
+    "phone": "",
+    "description": "I am a developer and founder of Kowatek Solar LTD and Iwuchi Technologies LTD, building AI-integrated open-source solutions to optimize renewable energy systems in Africa. I believe in open innovation and the power of localizing technology to serve diverse climates and communities across the continent.",
+    "webpageUrl": {
+      "url": "https://linkedIn.com/company/kowatek",
+      "wellKnown": ""
+    }
+  },
+  "projects": [
+    {
+      "guid": "energyai",
+      "name": "EnergyAI",
+      "description": "EnergyAI is an AI-integrated open-source software platform designed to manage, monitor, and optimize IoT-connected renewable energy systems across diverse African climates. It supports solar and wind microgrids, remote sensors, smart batteries, and load controllers in areas with low connectivity and infrastructure challenges.",
+      "webpageUrl": {
+        "url": "https://linkedIn.com/company/kowatek"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/kowatek/energyai",
+        "wellKnown": ""
+      },
+      "licenses": ["spdx:AGPL-3.0"],
+      "tags": ["renewable-energy", "AI", "IoT", "Africa", "open-source", "energy-access"]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "access-bank",
+        "type": "bank",
+        "address": "Access Bank, SWIFT: ABNGNGLA, Account No: 0096383938, Name: Iwuchi Technologies LTD",
+        "description": "Direct bank transfers are welcome for supporting the project and its field implementations."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "basic-pilot",
+        "status": "active",
+        "name": "Pilot Deployment Support",
+        "description": "Supports costs of IoT hardware, rural deployment, and energy system testing.",
+        "amount": 15000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["access-bank"]
+      },
+      {
+        "guid": "developer-comp",
+        "status": "active",
+        "name": "Developer Compensation",
+        "description": "Funds 3 engineers and 1 part-time AI/ML analyst over 12 months.",
+        "amount": 60000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["access-bank"]
+      },
+      {
+        "guid": "full-funding-plan",
+        "status": "active",
+        "name": "Full Year 1 Project Funding",
+        "description": "Covers development, testing, AI integration, outreach, and infrastructure support for Year 1.",
+        "amount": 95000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["access-bank"]
+      }
+    ],
+    "history": []
+  }
+}
