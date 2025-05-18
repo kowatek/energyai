@@ -9,7 +9,7 @@
     "phone": "",
     "description": "I am a developer and founder of Kowatek Solar LTD and Iwuchi Technologies LTD, building AI-integrated open-source solutions to optimize renewable energy systems in Africa. I believe in open innovation and the power of localizing technology to serve diverse climates and communities across the continent.",
     "webpageUrl": {
-      "url": "https://linkedIn.com/company/kowatek",
+      "url": "https://energyai.kowatek.com/",
       "wellKnown": ""
     }
   },
@@ -19,7 +19,7 @@
       "name": "EnergyAI",
       "description": "EnergyAI is an AI-integrated open-source software platform designed to manage, monitor, and optimize IoT-connected renewable energy systems across diverse African climates. It supports solar and wind microgrids, remote sensors, smart batteries, and load controllers in areas with low connectivity and infrastructure challenges.",
       "webpageUrl": {
-        "url": "https://energyai.kowatek.com/"
+        "url": "https://energyai.kowatek.com/projects"
       },
       "repositoryUrl": {
         "url": "https://github.com/kowatek/energyai",
