@@ -1,5 +1,4 @@
 {
-  "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
   "version": "v1.0.0",
   "entity": {
     "type": "individual",
@@ -9,8 +8,8 @@
     "phone": "",
     "description": "I am a developer and founder of Kowatek Solar LTD and Iwuchi Technologies LTD, building AI-integrated open-source solutions to optimize renewable energy systems in Africa. I believe in open innovation and the power of localizing technology to serve diverse climates and communities across the continent.",
     "webpageUrl": {
-      "url": "https://linkedIn.com/company/kowatek",
-      "wellKnown": ""
+      "url": "https://energyai.kowatek.com",
+      "wellKnown": "https://energyai.kowatek.com/.well-known/funding-manifest-urls"
     }
   },
   "projects": [
@@ -19,14 +18,23 @@
       "name": "EnergyAI",
       "description": "EnergyAI is an AI-integrated open-source software platform designed to manage, monitor, and optimize IoT-connected renewable energy systems across diverse African climates. It supports solar and wind microgrids, remote sensors, smart batteries, and load controllers in areas with low connectivity and infrastructure challenges.",
       "webpageUrl": {
-        "url": "https://energyai.kowatek.com/projects"
+        "url": "https://github.com/kowatek/energyai"
       },
       "repositoryUrl": {
         "url": "https://github.com/kowatek/energyai",
-        "wellKnown": "https://github.com/kowatek/energyai/blob/main/.well-known/funding-manifest.json"
+        "wellKnown": "https://github.com/kowatek/energyai/blob/main/.well-known/funding-manifest-urls"
       },
-      "licenses": ["spdx:AGPL-3.0"],
-      "tags": ["renewable-energy", "AI", "IoT", "Africa", "open-source", "energy-access"]
+      "licenses": [
+        "spdx:AGPL-3.0"
+      ],
+      "tags": [
+        "renewable-energy",
+        "AI",
+        "IoT",
+        "Africa",
+        "open-source",
+        "energy-access"
+      ]
     }
   ],
   "funding": {
@@ -47,7 +55,9 @@
         "amount": 15000,
         "currency": "USD",
         "frequency": "one-time",
-        "channels": ["access-bank"]
+        "channels": [
+          "access-bank"
+        ]
       },
       {
         "guid": "developer-comp",
@@ -57,7 +67,9 @@
         "amount": 60000,
         "currency": "USD",
         "frequency": "one-time",
-        "channels": ["access-bank"]
+        "channels": [
+          "access-bank"
+        ]
       },
       {
         "guid": "full-funding-plan",
@@ -67,7 +79,9 @@
         "amount": 95000,
         "currency": "USD",
         "frequency": "one-time",
-        "channels": ["access-bank"]
+        "channels": [
+          "access-bank"
+        ]
       }
     ],
     "history": []
