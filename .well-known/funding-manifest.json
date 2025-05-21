@@ -52,7 +52,7 @@
         "status": "active",
         "name": "Pilot Deployment Support",
         "description": "Supports costs of IoT hardware, rural deployment, and energy system testing.",
-        "amount": 15000,
+        "amount": 55000,
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
@@ -64,7 +64,7 @@
         "status": "active",
         "name": "Developer Compensation",
         "description": "Funds 3 engineers and 1 part-time AI/ML analyst over 12 months.",
-        "amount": 60000,
+        "amount": 35000,
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
@@ -76,7 +76,7 @@
         "status": "active",
         "name": "Full Year 1 Project Funding",
         "description": "Covers development, testing, AI integration, outreach, and infrastructure support for Year 1.",
-        "amount": 95000,
+        "amount": 96000,
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
