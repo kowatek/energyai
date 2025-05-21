@@ -9,7 +9,7 @@
     "description": "I am a developer and founder of Kowatek Solar LTD and Iwuchi Technologies LTD, building AI-integrated open-source solutions to optimize renewable energy systems in Africa. I believe in open innovation and the power of localizing technology to serve diverse climates and communities across the continent.",
     "webpageUrl": {
       "url": "https://energyai.kowatek.com",
-      "wellKnown": "https://energyai.kowatek.com/.well-known/funding-manifest-urls"
+      "wellKnown": "https://energyai.kowatek.com/.well-known/funding-manifest-urls.txt"
     }
   },
   "projects": [
